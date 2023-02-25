@@ -1,4 +1,21 @@
 .mylogo {
     width: 100px;
     height: 100px;
-}
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .mylogo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(1300deg);
+    }
+  }
+  

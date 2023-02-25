@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&display=swap');
 
-.extra-one {
-    text-align: center;
+.time {
+    color: black ;
     font-family: 'JetBrains Mono', monospace;
+    font-size: 2rem;
 }

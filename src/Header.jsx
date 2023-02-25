@@ -13,7 +13,7 @@ const Header = () => {
           </a>
 
           <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-            <li><a href="{sample}" className="nav-link px-2 link-dark">Pinay</a></li>
+            <li><a href="{Modal}" className="nav-link px-2 link-dark">Pinay</a></li>
             <li><a href="https://go.dev/" className="nav-link px-2 link-dark">BBC</a></li>
             <li><a href="https://go.dev/" className="nav-link px-2 link-dark">Scandal</a></li>
             <li><a href="https://go.dev/" className="nav-link px-2 link-dark">Secret Files</a></li>

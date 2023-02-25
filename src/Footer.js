@@ -5,17 +5,13 @@ const Footer = () => {
     const date = new Date();
     return (
 
-        <footer>
+        <footer className='extra-one'>
             <p>
-                Made by <strong>ShinjiX</strong> Copyright &copy; {date.getFullYear()}
+                Made by ShinjiX Copyright &copy; {date.getFullYear()}
             </p>
             <p>Time Now: <DateTime></DateTime></p>
         </footer>
-
     )
-
-
 }
-
 
 export default Footer;

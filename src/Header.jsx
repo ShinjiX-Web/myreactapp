@@ -1,5 +1,4 @@
 import './Header.css';
-import { Modal } from 'bootstrap';
 import { ReactComponent as Logo } from "./logo.svg";
 
 const Header = () => {

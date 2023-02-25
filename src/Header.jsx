@@ -13,16 +13,16 @@ const Header = () => {
           </a>
 
           <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
-            <li><a href="{sample}" className="nav-link px-2 link-dark">Home</a></li>
-            <li><a href="https://go.dev/" className="nav-link px-2 link-dark">Features</a></li>
-            <li><a href="https://go.dev/" className="nav-link px-2 link-dark">Pricing</a></li>
-            <li><a href="https://go.dev/" className="nav-link px-2 link-dark">FAQs</a></li>
+            <li><a href="{sample}" className="nav-link px-2 link-dark">Pinay</a></li>
+            <li><a href="https://go.dev/" className="nav-link px-2 link-dark">BBC</a></li>
+            <li><a href="https://go.dev/" className="nav-link px-2 link-dark">Scandal</a></li>
+            <li><a href="https://go.dev/" className="nav-link px-2 link-dark">Secret Files</a></li>
             <li><a href="https://go.dev/" className="nav-link px-2 link-dark">About</a></li>
           </ul>
 
           <div class="col-md-3 text-end">
-            <button type="button" className="btn btn-outline-primary me-2">Login</button>
-            <button type="button" className="btn btn-primary">Sign-up</button>
+            <button type="button" className="btn btn-outline-primary me-2">Mag Login</button>
+            <button type="button" className="btn btn-primary">Mag Sign-up</button>
           </div>
         </header>
       </div>

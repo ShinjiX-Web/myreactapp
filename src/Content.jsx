@@ -7,13 +7,12 @@ const Content = () => {
       <div className='container my-5'>
         <div className="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center rounded-3 border shadow-lg">
           <div className="col-lg-7 p-3 p-lg-5 pt-lg-3">
-            <h1 className="display-4 fw-bold lh-1 header-one">Border hero with cropped image and shadows</h1>
-            <p className="lead my-3"> Quickly design and customize responsive mobile-first sites with Bootstrap,
-              the world’s most popular front-end open source toolkit, featuring Sass variables and mixins,
-              responsive grid system, extensive prebuilt components, and powerful JavaScript plugins.</p>
+            <h1 className="display-4 fw-bold lh-1 header-one">Ang Langitngit ng Papag sa Bukiran</h1>
+            <p className="lead my-3"> Pinakauna at pinakamadami listahan ng mga nakakakilig na palabas mula sa Viva Videos.
+            Pinangugunahan ni Katya Santos, Joyce Jimenez, at Aubrey Miles.</p>
             <div className="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
-              <button type="button" className="btn btn-primary btn-lg px-4 me-md-2 fw-bold rounded-pill">Primary</button>
-              <button type="button" className="btn btn-outline-secondary btn-lg px-4 rounded-pill">Default</button>
+              <button type="button" className="btn btn-primary btn-lg px-4 me-md-2 fw-bold rounded-pill">Live Show</button>
+              <button type="button" className="btn btn-outline-secondary btn-lg px-4 rounded-pill">Pay Per View</button>
             </div>
           </div>
           <div className="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">

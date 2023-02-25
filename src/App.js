@@ -3,9 +3,8 @@ import Header from './Header';
 import Content from './Content';
 import Footer from './Footer';
 
-function App() {
 
-  const nametest = 'Peter';
+function App() {
 
   return (
     <div className="App">

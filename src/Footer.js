@@ -2,12 +2,7 @@ import './Footer.css';
 import DateTime from './datetime';
 
 const Footer = () => {
-
     const date = new Date();
-    const showTime = date.getHours()
-        + ':' + date.getMinutes()
-        + ":" + date.getSeconds();
-
     return (
 
         <footer>

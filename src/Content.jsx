@@ -29,7 +29,7 @@ const Content = () => {
 
         <div class="container px-4 py-5" id="custom-cards">
 
-          <h2 class="pb-2 border-bottom">Recent Blogs</h2>
+          <h2 class="pb-2 border-bottom">HOT!!!</h2>
 
           <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-5">
           
@@ -37,7 +37,7 @@ const Content = () => {
             
               <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg card-one">
                 <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                  <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Journey to the Moon</h3>
+                  <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Aubrey Miles goes wild!</h3>
                   <ul class="d-flex list-unstyled mt-auto">
                     <li class="me-auto">
                       <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white"></img>
@@ -58,7 +58,7 @@ const Content = () => {
             <div class="col">
               <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg card-two">
                 <div class="d-flex flex-column h-100 p-5 pb-3 text-white text-shadow-1">
-                  <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">A flower to the garden in the sky that melt our hearts</h3>
+                  <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Bulaklak sa kama ni Joyce Jimenez</h3>
                   <ul class="d-flex list-unstyled mt-auto">
                     <li class="me-auto">
                       <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white"></img>
@@ -79,7 +79,7 @@ const Content = () => {
             <div class="col">
               <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 shadow-lg card-three">
                 <div class="d-flex flex-column h-100 p-5 pb-3 text-shadow-1">
-                  <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Another longer title belongs here</h3>
+                  <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Halimuyak ni Katya sa Umaga</h3>
                   <ul class="d-flex list-unstyled mt-auto">
                     <li class="me-auto">
                       <img src="https://github.com/twbs.png" alt="Bootstrap" width="32" height="32" class="rounded-circle border border-white"></img>

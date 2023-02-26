@@ -20,7 +20,7 @@ const Content = () => {
             </div>
           </div>
           <div className="col-lg-4 offset-lg-1 p-0 overflow-hidden shadow-lg">
-            <img className="rounded-lg-3" src="https://getbootstrap.com/docs/5.3/examples/heroes/bootstrap-themes.png" alt="bootstrap" width="720"></img>
+            <img className="rounded-lg-3" src="https://profiles.ph/wp-content/uploads/2021/03/Katya-Santos.jpg" alt="bootstrap" width="500"></img>
           </div>
         </div >
       </div >

@@ -4,17 +4,17 @@
 }
 
 .card-one {
-    background-image: url('unsplash-photo-1.jpg');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pIaTJ7-CfJRfF-Sv8s_kfasZQm2OBZceJQ&usqp=CAU');
     background-size: cover;
 }
 
 .card-two {
-    background-image: url('unsplash-photo-2.jpg');
-    background-size: cover;
+    background-image: url('https://live.staticflickr.com/81/230456205_5d174c315c_z.jpg');
+    background-size:cover;
 }
 
 .card-three {
-    background-image: url('unsplash-photo-3.jpg');
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6hzNclet5vm2MbRlPnl8HTl61w08FFJbNw&usqp=CAU');
     background-size: cover;
 }
 
